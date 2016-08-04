@@ -1,0 +1,34 @@
+_repo: The-Masque-of-the-Red-Death_1064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: Everything is in ruins.A devastating plague has decimated the population,
+  and those who are left live in fear of catching it as the city crumbles around them.So
+  what does Araby Worth have to live for?Nights in the Debauchery Club, beautiful
+  dresses, glittery makeup . . . and tantalizing ways to forget it all.But in the
+  depths of the club—in the depths of her own despair—Araby will find more than oblivion.
+  She will find Will, the terribly handsome proprietor of the club, and Elliott, the
+  wickedly smart aristocrat. Neither is what he seems. Both have secrets. Everyone
+  does.And Araby may find not just something to live for, but something to fight for—no
+  matter what it costs her.
+gutenberg_issued: '2010-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Horror tales, American'
+- GITenberg
+title: The Masque of the Red Death
+url: http://www.gutenberg.org/ebooks/1064
