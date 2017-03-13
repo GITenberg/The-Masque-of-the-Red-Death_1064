@@ -1,5 +1,8 @@
 _repo: The-Masque-of-the-Red-Death_1064
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -18,6 +21,8 @@ description: Everything is in ruins.A devastating plague has decimated the popul
   wickedly smart aristocrat. Neither is what he seems. Both have secrets. Everyone
   does.And Araby may find not just something to live for, but something to fight for—no
   matter what it costs her.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1064#The-Masque-of-the-Red-Death
 gutenberg_issued: '2010-06-06'
 gutenberg_type: Text
 identifiers:
